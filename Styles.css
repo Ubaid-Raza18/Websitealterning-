@@ -1,0 +1,77 @@
+*{
+
+font-family: 'lato', sans-serif;
+
+  
+
+}
+
+    h1{
+        text-transform: uppercase;
+        color: darkgreen;
+        background-color: gold;
+        text-align: center;
+        padding: 20px;
+        font-weight: 500px;
+        font-size: 50px;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+
+
+    }
+    h2{
+   text-transform: uppercase;
+   color: blue;
+
+
+
+    }
+
+    a{
+  
+        text-decoration: none;
+        text-transform: uppercase;
+        color: turquoise;
+
+
+
+
+    }
+
+
+      
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+
+    }
+          .column > {
+
+            float: left;
+            width: 90%
+
+          }
+
+         .column > img{
+          width: 30%;
+          height: 250px;
+         }
+  
+
+          
+
+
+
+
+
+
+          
+
+
+
+
+          
+
+    
+
